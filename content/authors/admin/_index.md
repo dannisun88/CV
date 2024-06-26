@@ -183,11 +183,11 @@ awards:
 
 ## About Me
 
-I am a PhD student in Tourism Management at Sun Yat-sen University, advised by Professor [IpKin Anthony Wong](https://fba.um.edu.mo/faculty/anthonywong/).
+I am a PhD student in Tourism Management at Sun Yat-sen University, advised by Professor [IpKin Anthony Wong](https://fba.um.edu.mo/faculty/anthonywong/){style="color: blue"}.
 
-My research interests are diverse, covering multiple areas, including an in-depth study of destination cultural capital, an experimental exploration of authenticity from a post-postmodern perspective, an analysis of the aesthetic value of hotel services, the paradox of smart hotels, and an investigation into how Generative AI (GAI) can empower the tourism industry.
+My research interests cover multiple areas, including destination cultural capital, post-postmodern authenticity, aesthetic value of servicescape, the paradox of smart hotels, and in-depth investigation into how Generative AI (GAI) can empower the tourism industry.
 
-My doctoral dissertation employs experimental and qualitative methods to study the effects of machine language, specifically the application scenarios, strategy effectiveness, and novel human-computer relationships of GAI in tourism recommendations.
+My doctoral dissertation employs experimental and qualitative methods to study the word-of-machine effect, specifically the application scenarios, strategy effectiveness, and novel human-computer relationships of GAI in the field of tourism recommendations.
 
 I am currently seeking job opportunities. Please feel free to contact me！
 
