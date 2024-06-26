@@ -20,6 +20,7 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: dark
+      css_style: 'width: 100%; max-width: 100%; margin: 0 auto;'
       background:
         color: black
         image:
