@@ -52,7 +52,8 @@ interests:
   - Consumer Psychology
 
 education:
-  - area: Ph.D. in Tourism Management(Expected Graducation:2025)
+  - area: Ph.D. in Tourism Management
+          (Expected Graducation:2025)
     institution: Sun Yat-sen University, Zhuhai, China
     # date_start: 2016-01-01
     # date_end: 2020-12-31
@@ -61,7 +62,8 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: B.Mgt in Hospitality Management, 2016-2020
+  - area: B.Mgt in Hospitality Management
+          2016-2020
     institution: Sun Yat-sen University, Zhuhai, China
     # date_start: 2016-01-01
     # date_end: 2020-12-31
