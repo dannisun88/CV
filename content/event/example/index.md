@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: Best paper
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: The 20th Asia Pacific Forum for Graduate Students Research in Tourism
+event_url: https://mp.weixin.qq.com/s/2H5J9y5LYkXocVXdDeKhdA
 
 location: Hugo Blox Builder HQ
 address:
@@ -12,12 +12,12 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: The 20th Asia Pacific Forum for Graduate Students Research in Tourism
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
+date: '2024-06-13T13:00:00Z'
 date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
