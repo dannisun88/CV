@@ -76,14 +76,13 @@ sections:
       text: |-
         **Sun, D.**, Wong, I. A., Huang, G. I.*, Kim, J. H., & Liu, M. T. (2023). <a href="https://journals.sagepub.com/doi/abs/10.1177/00472875231206546" style="color: blue;"> From Savoring Past Trips to Craving Future Journeys: The Role of Destination Cultural Capital and Enjoyable Reminiscence</a>. Journal of Travel Research, 00472875231206546. (ABS 4, SSCI Q1, 2022 IF=8.9)
 
-        Wong, I. A., Sun, D., Xiong, X.*, & Li, X. (2023). Craving alterreal authenticity through the post-postmodern lens: An experimental inquiry. Tourism Management, 94, 104654. (ABS 4, SSCI Q1, 2022 IF=12.7)
+        Wong, I. A., **Sun, D.**, Xiong, X.*, & Li, X. (2023). Craving alterreal authenticity through the post-postmodern lens: An experimental inquiry. Tourism Management, 94, 104654. (ABS 4, SSCI Q1, 2022 IF=12.7)
 
-        Wong, I. A., Xiao, Y., Lin, Z.*, Sun, D., Huang, J., & Liu, M. (2024). Smart hotels but not necessarily smart decisions: the smartness paradox. International Journal of Contemporary Hospitality Management.  (ABS 3, SSCI Q1, 2022 IF=11.1)
+        Wong, I. A., Xiao, Y., Lin, Z.*, **Sun, D.**, Huang, J., & Liu, M. (2024). Smart hotels but not necessarily smart decisions: the smartness paradox. International Journal of Contemporary Hospitality Management.  (ABS 3, SSCI Q1, 2022 IF=11.1)
 
-        Wong, I. A., Wan, Y. K. P., & Sun, D*. (2023). Understanding hospitality service aesthetics through the lens of aesthetic theory. Journal of Hospitality Marketing & Management, 32(3), 410-444. (ABS 1, SSCI Q1, 2022 IF=12.5)
+        Wong, I. A., Wan, Y. K. P., & **Sun, D.**.* (2023). Understanding hospitality service aesthetics through the lens of aesthetic theory. Journal of Hospitality Marketing & Management, 32(3), 410-444. (ABS 1, SSCI Q1, 2022 IF=12.5)
 
-        Wong, I. A., Lian, Q. L.*, & Sun, D.* (2023). Autonomous travel decision-making: An early glimpse into ChatGPT and generative AI. Journal of Hospitality and Tourism Management, 56, 253-263. (ABS 1, SSCI Q1, 2022 IF=8.3)
-<a href="https://fba.um.edu.mo/faculty/anthonywong/" style="color: blue;"> IpKin Anthony Wong</a>
+        Wong, I. A., Lian, Q. L.*, & **Sun, D.**.* (2023). Autonomous travel decision-making: An early glimpse into ChatGPT and generative AI. Journal of Hospitality and Tourism Management, 56, 253-263. (ABS 1, SSCI Q1, 2022 IF=8.3)
     design:
       columns: '1'
   
