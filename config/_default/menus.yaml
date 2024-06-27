@@ -13,10 +13,10 @@ main:
     url: /#papers
     weight: 20
   - name: Working Papers
-    url: /#talks
+    url: /#workings
     weight: 30
   - name: Awards
-    url: /#news
+    url: /#awards
     weight: 40
   # - name: Experience
   #   url: experience/
