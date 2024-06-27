@@ -4,20 +4,19 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Bio
+  - name: '😊 Bio'
     url: /
     weight: 10 # 这里权重值代表排序
-    style:
-      color: blue  # 设置为蓝色
-  - name: Publications
+  - name: '📜 Publications'
     url: /#papers
     weight: 20
-  - name: Working Papers
-    url: /#workings
-    weight: 30
-  - name: Awards
+  - name: '🏅 Awards'
     url: /#awards
+    weight: 30
+  - name: '📒 Working Papers'
+    url: /#workings
     weight: 40
+
   # - name: Experience
   #   url: experience/
   #   weight: 20

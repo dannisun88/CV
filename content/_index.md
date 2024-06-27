@@ -21,7 +21,7 @@ sections:
     design:
       css_class: light
       background:
-        color: black
+        color: white
         image:
           # Add your image background to `assets/media/`.
           filename: background1.jpg #stacked-peaks.svg
@@ -56,18 +56,51 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 2
-  # 以下是publications
-  - block: collection
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: '📜 Publications'
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       # exclude_featured: false
+  #   design:
+  #     view: citation
+  # 以下是publications(改成手动写)
+  - block: markdown
     id: papers
     content:
       title: '📜 Publications'
+      subtitle: ''
+      text: |-
+        **Sun, D.**, Wong, I. A., Huang, G. I.*, Kim, J. H., & Liu, M. T. (2023). <a href="https://journals.sagepub.com/doi/abs/10.1177/00472875231206546" style="color: blue;"> From Savoring Past Trips to Craving Future Journeys: The Role of Destination Cultural Capital and Enjoyable Reminiscence</a>. Journal of Travel Research, 00472875231206546. (ABS 4, SSCI Q1, 2022 IF=8.9)
+
+        Wong, I. A., Sun, D., Xiong, X.*, & Li, X. (2023). Craving alterreal authenticity through the post-postmodern lens: An experimental inquiry. Tourism Management, 94, 104654. (ABS 4, SSCI Q1, 2022 IF=12.7)
+
+        Wong, I. A., Xiao, Y., Lin, Z.*, Sun, D., Huang, J., & Liu, M. (2024). Smart hotels but not necessarily smart decisions: the smartness paradox. International Journal of Contemporary Hospitality Management.  (ABS 3, SSCI Q1, 2022 IF=11.1)
+
+        Wong, I. A., Wan, Y. K. P., & Sun, D*. (2023). Understanding hospitality service aesthetics through the lens of aesthetic theory. Journal of Hospitality Marketing & Management, 32(3), 410-444. (ABS 1, SSCI Q1, 2022 IF=12.5)
+
+        Wong, I. A., Lian, Q. L.*, & Sun, D.* (2023). Autonomous travel decision-making: An early glimpse into ChatGPT and generative AI. Journal of Hospitality and Tourism Management, 56, 253-263. (ABS 1, SSCI Q1, 2022 IF=8.3)
+<a href="https://fba.um.edu.mo/faculty/anthonywong/" style="color: blue;"> IpKin Anthony Wong</a>
+    design:
+      columns: '1'
+  
+  # 以下是awards
+  - block: collection
+    id: awards
+    content:
+      title: '🏅 Awards'
       text: ""
       filters:
         folders:
-          - publication
-        # exclude_featured: false
+          - project
     design:
-      view: citation
+      view: card
+      fill_image: false
+      columns: 2
+    
   # 以下是working papers
   - block: markdown
     id: workings
@@ -100,19 +133,7 @@ sections:
         Wong, I. A., He Y., Sun D. (2024). What are you going to wear today? (About to commence)
     design:
       columns: '1'
-  # 以下是awards
-  - block: collection
-    id: awards
-    content:
-      title: '🏅 Awards'
-      text: ""
-      filters:
-        folders:
-          - project
-    design:
-      view: card
-      fill_image: false
-      columns: 2
+
   # - block: collection
   #   id: talks
   #   content:
