@@ -66,7 +66,7 @@ sections:
           - publication
         # exclude_featured: false
     design:
-      view: article-grid
+      view: list
   # - block: collection
   #   id: talks
   #   content:
