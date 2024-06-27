@@ -59,14 +59,14 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
           - publication
         # exclude_featured: false
     design:
-      view: citation
+      view: Citation
   # - block: collection
   #   id: talks
   #   content:
