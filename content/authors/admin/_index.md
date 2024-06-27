@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: |
-        Ph.D. in Tourism Management<br>
+        Ph.D.  in  Tourism  Management
         2020-Present (Expected 2025)
     institution: Sun Yat-sen University, Zhuhai, China
     # date_start: 2016-01-01
