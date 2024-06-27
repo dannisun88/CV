@@ -60,7 +60,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: '📚 Publications'
+      title: '📜 Publications'
       text: ""
       filters:
         folders:
@@ -76,16 +76,27 @@ sections:
       subtitle: ''
       text: |-
         Wang, Y., Wong, I. A., Sun, D.* (2024). Quiet Quitting: A Scale Development among Tourism/Hospitality Employees. International Journal of Hospitality Management. Under review. 
+
         Sun, D., Wong, I. A., Xiong, X. (2024). Do Tourists Prefer Dialectal Service? The Role of Processing Fluency, Distinctiveness, and Cultural Learning Cues. Tourism Management. Manuscript completed and to be submitted. 
+
         Sun, D., Wong, I. A., Xiong, X. (2024). Cutting Edges Meets Silver Tongue: Understanding the Word-of-machine Effect on Hospitality Service. Tourism Management. Methodology completed and manuscript being revised.
+
         Sun, D., Wong, I. A., Xiong, X. (2024). Paradox of selfie taking: Do tourists prefer selfie, toyfie or avatarfie (or titled when the real-word becomes the digital-twin, the digital-world becomes the reality twin). Tourism Management. Methodology completed and manuscript being drafted.
+
         Wong, I. A., Huang. J. D., Sun, D. (2024). Boosting Courage in Dealing with Uncivil Customer Behavior: The Role of AI in Service. International Journal of Hospitality Management. Methodology completed and manuscript being drafted.
+
         Sun, D., Wong, I. A., Wang J. (2024). Song of the Sirens: Paradox of artificial hallucination awareness. Tourism Management. Methodology in progress
+
         Huang. G. I., Wong, I. A., Sun, D. (2024). Generative AI Recommendation Acceptance. Tourism Management. Methodology in progress 
+
         Wang, Y., Wong, I. A., Sun, D. (2024). The impacts of job characteristic on intent to leave and employee mental health: The moderating role of quiet quitting. Methodology in progress
+
         Sun D., Xiao X., Wong, I. A. (2024). Toystagramming: the role of toys in travel encounter. Methodology in progress
+
         Wong, I.A., Sun D. (2024). Toyfie on the Go: Exploring the phenomenon of sharing toy-fueled tourisdm experience among kidults. (About to commence)
+
         Wong, I.A., Sun D. (2024). Revolutionizing AI Influencer Marketing: Embracing Truth, Goodness, and Beauty. (About to commence)
+
         Wong, I. A., He Y., Sun D. (2024). What are you going to wear today? (About to commence)
     design:
       columns: '1'
@@ -93,15 +104,15 @@ sections:
   - block: collection
     id: awards
     content:
-      title: Awards
+      title: '🏅 Awards'
       text: ""
       filters:
         folders:
           - project
     design:
-      view: article-grid
+      view: card
       fill_image: false
-      columns: 3
+      columns: 2
   # - block: collection
   #   id: talks
   #   content:

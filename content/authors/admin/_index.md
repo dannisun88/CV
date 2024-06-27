@@ -52,7 +52,7 @@ interests:
   - Consumer Psychology
 
 education:
-  - area: |
+  - area: |-
         Ph.D.  in  Tourism  Management
         2020-Present (Expected 2025)
     institution: Sun Yat-sen University, Zhuhai, China
