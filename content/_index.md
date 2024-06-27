@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "2rem"
+  spacing: "3rem"
 
 sections:
   - block: resume-biography-3
@@ -33,40 +33,7 @@ sections:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['0px', '0', '20px', '0'] 
-  # - block: markdown
-  #   content:
-  #     title: '📚 My Research'
-  #     subtitle: ''
-  #     text: |-
-  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-  #       Please reach out to collaborate 😃
-  #   design:
-  #     columns: '1'
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     view: article-grid
-  #     columns: 2
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: '📜 Publications'
-  #     text: ""
-  #     filters:
-  #       folders:
-  #         - publication
-  #       # exclude_featured: false
-  #   design:
-  #     view: citation
+ 
   # 以下是publications(改成手动写)
   - block: markdown
     id: papers
@@ -84,7 +51,7 @@ sections:
 
         Wong, I. A., Lian, Q. L.*, & **Sun, D.\*** (2023). <a href="https://www.sciencedirect.com/science/article/abs/pii/S1447677023001158" style="color: blue;"> Autonomous travel decision-making: An early glimpse into ChatGPT and generative AI</a>. **Journal of Hospitality and Tourism Management**, 56, 253-263. (ABS 1, SSCI Q1, 2022 IF=8.3)
     design:
-      columns: '2'
+      columns: 2
   
   # 以下是awards
   - block: collection
@@ -131,8 +98,41 @@ sections:
 
         Wong, I. A., He Y., **Sun, D.** (2024). What are you going to wear today? About to commence
     design:
-      columns: '2'
+      columns: 2
+   # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
+  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        
+  #       Please reach out to collaborate 😃
+  #   design:
+  #     columns: '1'
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: '📜 Publications'
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       # exclude_featured: false
+  #   design:
+  #     view: citation
   # - block: collection
   #   id: talks
   #   content:
