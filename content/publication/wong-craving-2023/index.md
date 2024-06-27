@@ -6,12 +6,13 @@ authors:
 - Danni Sun
 - Xiling Xiong
 - Xi Li
-date: '2023-01-01'
-publishDate: '2024-06-27T06:45:12.018109Z'
+date: '2022-02-07'
+# publishDate: '2024-06-27T06:45:12.018109Z'
 publication_types:
 - article-journal
 publication: '*Tourism Management*'
-links:
-- name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S0261517722001674
+external_link: https://www.sciencedirect.com/science/article/pii/S0261517722001674
+# links:
+# - name: URL
+#   url: https://www.sciencedirect.com/science/article/pii/S0261517722001674
 ---
