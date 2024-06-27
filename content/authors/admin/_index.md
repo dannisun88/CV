@@ -185,7 +185,7 @@ awards:
 
 ## About Me
 
-I am a PhD student in Tourism Management at Sun Yat-sen University, advised by Professor <a href="https://fba.um.edu.mo/faculty/anthonywong/" style="color: sky;"> IpKin Anthony Wong</a>.
+I am a PhD student in Tourism Management at Sun Yat-sen University, advised by Professor <a href="https://fba.um.edu.mo/faculty/anthonywong/" style="color: blue;"> IpKin Anthony Wong</a>.
 
 My research interests cover multiple areas, including destination cultural capital, post-postmodern authenticity, aesthetic value of servicescape, the paradox of smart hotels, and in-depth investigation into how Generative AI (GAI) can empower the tourism industry.
 
