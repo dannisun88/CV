@@ -52,9 +52,9 @@ interests:
   - Consumer Psychology
 
 education:
-  - area: |-
-      Ph.D. in Tourism Management
-      2020-Present (Expected 2025)
+  - area: 
+      Ph.D. in Business Administration
+      2020-2025
     institution: Sun Yat-sen University, Zhuhai, China
     # date_start: 2016-01-01
     # date_end: 2020-12-31
@@ -186,7 +186,7 @@ education:
 
 ## Biography
 
-I am a PhD student in Tourism Management at Sun Yat-sen University, advised by Professor <a href="https://fba.um.edu.mo/faculty/anthonywong/" style="color: blue;"> IpKin Anthony Wong</a>. **Currently seeking job opportunities. Please feel free to contact me!**
+I am a PhD student in Tourism Management at Sun Yat-sen University, advised by Professor <a href="https://fba.um.edu.mo/faculty/anthonywong/" style="color: blue;"> IpKin Anthony Wong</a>. 
 
 Research interests encompass a diverse range of topics, including destination cultural capital, post-postmodern authenticity, the aesthetic value of servicescape, the paradox of smart hotels, and the transformative potential of Generative AI (GAI) in the tourism industry.
 
